@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27818840/README.md)
+[README.md](https://github.com/user-attachments/files/28010314/README.md)
 # 焼肉 黒耀 ｜ Brand Site
 
 > 恵比寿の高級焼肉店「焼肉 黒耀」ブランドサイト（実装版）。
@@ -14,6 +14,12 @@
 | 企画提案書 | https://hirotonozaki.github.io/yakiniku-kokuyou-proposal/ |
 
 > 本サイトの設計意図・KPI・競合分析・情報設計の全プロセスは、企画提案書（全30ページ）に記載しています。
+
+---
+
+## Preview
+
+![焼肉 黒耀 トップページのプレビュー](assets/images/preview-mockup.png)
 
 ---
 
@@ -57,6 +63,12 @@
 
 ---
 
+## 制作期間
+
+約3週間（企画設計・デザイン・実装・改善含む）
+
+---
+
 ## ディレクトリ構成
 
 ```
@@ -69,7 +81,8 @@
 ├── js/
 │   ├── main.js             全UIロジック（10モジュール構成）
 │   └── reserve.js          予約フロー専用ロジック
-└── images/                 写真素材
+└── assets/
+    └── images/             写真素材
 ```
 
 ---
