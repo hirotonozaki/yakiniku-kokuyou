@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28010314/README.md)
+[README.md](https://github.com/user-attachments/files/28010531/README.md)
 # 焼肉 黒耀 ｜ Brand Site
 
 > 恵比寿の高級焼肉店「焼肉 黒耀」ブランドサイト（実装版）。
@@ -19,7 +19,15 @@
 
 ## Preview
 
-![焼肉 黒耀 トップページのプレビュー](assets/images/preview-mockup.png)
+![焼肉 黒耀 Preview](assets/images/preview-mockup.png)
+
+---
+
+## QR Code
+
+スマートフォンからサイト確認用
+
+![QR Code](assets/images/qr.png)
 
 ---
 
